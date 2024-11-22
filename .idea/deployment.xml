@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@connect.westc.gpuhub.com:37536" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="root@connect.bjc1.seetacloud.com:37550">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/RRU_test" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westb.seetacloud.com:18563">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/RRU-Net-master" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.westc.gpuhub.com:37536">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/RRU37536" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
